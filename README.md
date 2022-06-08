@@ -1,6 +1,6 @@
 # WebAssembly Sandbox
 
-I created this repo so I can follow along with Brian Sletten's [WebAssembly The Definitive Guide](https://www.oreilly.com/library/view/webassembly-the-definitive/9781492089834/)
+I created this repo so I can follow along with Brian Sletten's [WebAssembly: The Definitive Guide](https://www.oreilly.com/library/view/webassembly-the-definitive/9781492089834/)
 
 Go buy it and read it, fantastic book!
 
